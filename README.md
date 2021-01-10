@@ -2,7 +2,7 @@
 
 ## About
 
-Mario game built using Lua and Love for the Game Track of the Harvard Online CS50 Intro to Computer Science course. This project is an addition to the distribution code given by the course.
+Mario game built using Lua and Love for the Game Track of the Harvard Online CS50 Intro to Computer Science course. This project is an addition to the distribution code provided by the course.
 
 ## Course Objectives and Specification
 
